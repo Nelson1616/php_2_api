@@ -1,0 +1,16 @@
+{
+    "name": "nelson/php_2_api",
+    "description": "Uma api feita com php puro.",
+    "authors": [
+        {
+            "name": "Nelson Carvalho",
+            "email": "nelson16.code@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
